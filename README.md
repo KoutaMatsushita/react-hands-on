@@ -15,6 +15,7 @@
 
 ```shell
 $ cd path/to/react-hands-on
+$ docker-compose build --no-cache
 $ docker-compose up
 ```
 
